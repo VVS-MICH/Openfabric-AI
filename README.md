@@ -4,7 +4,7 @@
 * **Bug reports:** Please report any bugs you find in the issues section of this repository: [https://github.com/VVS-MICH/Openfabric-AI/issues](https://github.com/VVS-MICH/Openfabric-AI/issues)
 * **Test cases:** You can find the detailed test cases here: [https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing)
 * **Answers to 1,5,6:** You can find the answers to 156 questions related to the Openfabric-AI platform here: [https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing](https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing)
-find the answers to 156 in this link https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing
+
 
 
 ## Openfabric-AI E2E Tests
