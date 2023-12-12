@@ -1,12 +1,9 @@
-To launch the E2E Test use the command npx cypress open
-select the browser then select the test to run from the list of tests
 
-please find the bugs in the issues section of this repo
-https://github.com/VVS-MICH/Openfabric-AI/issues
+### Resources
 
-please find the test cases in this link https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing
-
-
+* **Bug reports:** Please report any bugs you find in the issues section of this repository: [https://github.com/VVS-MICH/Openfabric-AI/issues](https://github.com/VVS-MICH/Openfabric-AI/issues)
+* **Test cases:** You can find the detailed test cases here: [https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing)
+* **Answers to 1,5,6:** You can find the answers to 156 questions related to the Openfabric-AI platform here: [https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing](https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing)
 find the answers to 156 in this link https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing
 
 
@@ -44,14 +41,5 @@ npx cypress open
 6. Select the test(s) you want to run from the list.
 7. Click the "Run" button to execute the tests.
 
-**Note:** Cypress will automatically open the browser and navigate to the Openfabric-AI platform before running the tests.
 
-### Resources
 
-* **Bug reports:** Please report any bugs you find in the issues section of this repository: [https://github.com/VVS-MICH/Openfabric-AI/issues](https://github.com/VVS-MICH/Openfabric-AI/issues)
-* **Test cases:** You can find the detailed test cases here: [https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BiWAtmBcsc_osFu0MYU2kTCDhmjU0k3LdXbPheQUFFs/edit?usp=sharing)
-* **Answers to 156:** You can find the answers to 156 questions related to the Openfabric-AI platform here: [https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing](https://docs.google.com/document/d/1qjyx_zYe7RH574OJJhGjcnpJPlTEDPAuuHbAXjlYTsw/edit?usp=sharing)
-
-### Contributing
-
-Contributions to this repository are welcome! If you have any suggestions or improvements, please create a pull request.
